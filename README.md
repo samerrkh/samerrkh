@@ -5,23 +5,23 @@
 
 
 ## Glad to see you here! &nbsp;
-<p>
-I'm <b>Samer Khair</b>, An enthusiastic software engineering student on a quest to create amazing things with code. I have a deep passion for solving puzzles, building software solutions, and exploring new technologies. Currently pursuing my degree in Software Engineering, I firmly believe in the importance of clean code, strong architecture, and continuous improvement.
-</p>
-<p>
-I have a strong passion for technology exploration and coding competitions, promoting collaboration, diverse perspectives, and open communication. I thoroughly enjoy coding and building impactful projects, as reflected in my GitHub contributions.
-</p>  
-<p><b>Let's embark on an enchanting code-driven adventure, where miracles await at every line!!</b></p>
+<p> I'm <b>Samer Khair</b>, a passionate <b>Software Engineer</b> with a strong drive to create impactful and scalable solutions through code. I have recently <b>completed my Bachelor's degree in Software Engineering</b> and I am currently <b>working as a Software Engineer</b>, where I continue to sharpen my skills through real-world projects and challenges. </p> <p> I have a strong passion for technology exploration and coding competitions, promoting collaboration, diverse perspectives, and open communication. I thoroughly enjoy coding and building impactful projects, as reflected in my GitHub contributions. </p> <p><b>Let's embark on an enchanting code-driven adventure, where miracles await at every line!!</b></p>
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 
 ### Talking about Personal Stuff:
 
-- 🎓 Currently enrolled in a Bachelor's program for Software Engineering.
-- 💻 Proficient in comprehending and implementing data structures and algorithms.
-- 🔍 Possess strong analytical skills and think critically to solve problems. 
-- 🤝 Offered tutoring services in mathematics, physics, and programming to students academically.
-- 👥 Demonstrated leadership abilities as a team leader, overseeing projects, conducting market research, and delivering presentations on scientific articles.
+🎓 Graduated with a Bachelor's degree in Software Engineering.
+
+💼 Currently working as a Software Engineer.
+
+💻 Proficient in comprehending and implementing data structures and algorithms.
+
+🔍 Possess strong analytical skills and think critically to solve problems.
+
+🤝 Offered tutoring services in mathematics, physics, and programming to students academically.
+
+👥 Demonstrated leadership abilities as a team leader, overseeing projects, conducting market research, and delivering presentations on scientific articles.
   
 - 💪 This is where I engage in writing, coding, and resolving challenges:
 
